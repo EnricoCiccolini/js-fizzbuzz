@@ -7,7 +7,7 @@
 
 procedimento 
 
-creremo due variabili div5 e div3
+creremo due variabili div5 e div3 per controllare i divisori 
 apriamo un ciclo con contatore a 1  finoa che non sia maggiore uguale a 100 icrementando ogni volta il contatore di uno
 
 faremo due calcoli per capire il contatore è divisibile per 3 e/o 5
